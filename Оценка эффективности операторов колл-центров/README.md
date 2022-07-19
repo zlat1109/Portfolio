@@ -9,7 +9,6 @@
 - Pandas, 
 - Seaborn, 
 - Matplotlib, 
-- Tableau, 
 - Событийная аналитика
 
 ## **Ключевой вывод проекта:**
